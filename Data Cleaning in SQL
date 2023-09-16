@@ -224,7 +224,7 @@ ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, SaleDate, TaxDistrict, PropertyAddress
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 
 
 
